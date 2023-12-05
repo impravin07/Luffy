@@ -1,0 +1,61 @@
+*{
+    background-image: url(https://i.redd.it/x9x1946tcbl91.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#nav{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+}
+.navbox{
+    display: flex;
+    text-align: right;
+    color: white;
+    gap: 50px;
+}
+h3,h4{
+    font-family: 'Ubuntu', sans-serif;
+}
+#weltxt{
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+#para{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#para:hover{
+    color: black;
+}
+#About{
+   
+    background-color: white;
+  
+}
+h4:hover{
+    text-decoration: underline;
+}
+Contact h3{
+    color: greenyellow;
+}
+#con {
+    color: white;
+    font-family: 'Kanit', sans-serif;  
+}
+footer{
+    text-align: right;
+    color: white;
+    font-family: 'Kanit', sans-serif;   
+}
